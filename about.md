@@ -4,7 +4,7 @@ title: "About me"
 subtitle: "欢迎来到我的精神书斋"
 ---
 
-### ### 关于我 (About Elaine)
+### 关于我 (About Elaine)
 
 欢迎来到**“椿枫漫笔”**。在这里，我不记年华，只记瞬间。
 
