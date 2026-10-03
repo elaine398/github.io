@@ -19,7 +19,7 @@ author: Elaine
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:navbar-links:
+navbar-links:
   "主页": ""
   "故事": "tags/#故事"
   "短文": "tags/#短文"
