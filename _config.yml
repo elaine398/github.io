@@ -10,7 +10,8 @@
 ############################
 
 # Name of website
-title: 椿枫漫笔
+title: "椿枫漫笔"
+
 
 # Your name to show in the footer
 author: Elaine
@@ -21,14 +22,15 @@ author: Elaine
 
 navbar-links:
   "主页": ""
-  "故事": "tags/#故事"
-  "短文": "tags/#短文"
-  "游记": "tags/#游记"
-  "日志": "tags/#日志"
-  "书摘": "tags/#书摘"
-  "书斋": "tags/#书斋"
-  "美食": "tags/#美食"
-  "About me": "about"
+  "故事": "/tags/#故事"
+  "短文": "/tags/#短文"
+  "游记": "/tags/#游记"
+  "日志": "/tags/#日志"
+  "书摘": "/tags/#书摘"
+  "书斋": "/tags/#书斋"
+  "美食": "/tags/#美食"
+  "About me": "/about"
+
 
 
 
